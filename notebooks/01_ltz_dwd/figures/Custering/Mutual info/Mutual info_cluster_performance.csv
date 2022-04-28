@@ -1,0 +1,5 @@
+Mutual info,Number of points in cluster,Average correlation score in cluster,Average value of expected correlation
+Cluster I,187.0,0.028,0.1
+Cluster II,6.0,0.633,0.8
+Cluster III,17.0,0.318,0.9
+Cluster IV,13.0,1.0,1.0

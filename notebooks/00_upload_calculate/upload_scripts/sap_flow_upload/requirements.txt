@@ -1,0 +1,7 @@
+metacatalog
+numpy
+pandas
+sqlalchemy
+matplotlib
+xlrd
+pyproj

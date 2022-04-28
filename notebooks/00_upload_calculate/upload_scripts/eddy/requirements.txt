@@ -1,0 +1,4 @@
+metacatalog
+numpy
+pandas
+xlrd<2.0.0

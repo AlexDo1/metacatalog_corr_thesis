@@ -1,0 +1,13 @@
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python=3.7
+    - numpy
+    - pandas
+    - sqlalchemy
+    - matplotlib
+    - pip:
+        - pyproj>=2.*
+        - xlrd
+        - metacatalog>=0.1.6

@@ -1,0 +1,393 @@
+{
+    "0": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 022",
+            "abstract": "Sap flow tree 022- 20mm- east",
+            "location": [
+                11.222353532314015,
+                52.08683783324311
+            ],
+            "variable": 14,
+            "external_id": "212",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "not yet converted"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "53.04",
+            "depth": "20mm",
+            "species": "oak"
+        },
+        "entry_id": 1065
+    },
+    "2": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 022",
+            "abstract": "Sap flow tree 022- 20mm- north-west",
+            "location": [
+                11.222353532314015,
+                52.08683783324311
+            ],
+            "variable": 14,
+            "external_id": "214",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "not yet converted"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "53.04",
+            "depth": "20mm",
+            "species": "oak"
+        },
+        "entry_id": 1066
+    },
+    "4": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 029",
+            "abstract": "Sap flow tree 029- 20mm- north",
+            "location": [
+                11.222144591224945,
+                52.08674104008754
+            ],
+            "variable": 14,
+            "external_id": "246",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "not yet converted"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "22.07",
+            "depth": "20mm",
+            "species": "hornbeam"
+        },
+        "entry_id": 1067
+    },
+    "8": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 048",
+            "abstract": "Sap flow tree 048- 20mm- north 2015",
+            "location": [
+                11.221774973337356,
+                52.0868912422611
+            ],
+            "variable": 14,
+            "external_id": "269",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "nan"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "17.91",
+            "depth": "20mm",
+            "species": "hornbeam"
+        },
+        "entry_id": 1068
+    },
+    "10": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 050",
+            "abstract": "Sap flow tree 050- 20mm- east",
+            "location": [
+                11.221728864418242,
+                52.086863128916136
+            ],
+            "variable": 14,
+            "external_id": "275",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "nan"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "62.47",
+            "depth": "20mm",
+            "species": "oak"
+        },
+        "entry_id": 1069
+    },
+    "14": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 056",
+            "abstract": "Sap flow tree 056- 20mm- north",
+            "location": [
+                11.221580115230608,
+                52.086769147511106
+            ],
+            "variable": 14,
+            "external_id": "282",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "nan"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "17.64",
+            "depth": "20mm",
+            "species": "hornbeam"
+        },
+        "entry_id": 1070
+    },
+    "16": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 057",
+            "abstract": "Sap flow tree 057- 20mm- north",
+            "location": [
+                11.221602007312564,
+                52.08673512986815
+            ],
+            "variable": 14,
+            "external_id": "292",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "nan"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "53.78",
+            "depth": "20mm",
+            "species": "beech"
+        },
+        "entry_id": 1071
+    },
+    "18": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 058",
+            "abstract": "Sap flow tree 058- 20mm- east-north-east",
+            "location": [
+                11.221631540563834,
+                52.08678345614037
+            ],
+            "variable": 14,
+            "external_id": "306",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "nan"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "nan",
+            "depth": "20mm",
+            "species": "beech"
+        },
+        "entry_id": 1072
+    },
+    "20": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 106",
+            "abstract": "Sap flow tree 106 - 20mm - east - commertial",
+            "location": [
+                11.221354835361566,
+                52.086568411238765
+            ],
+            "variable": 14,
+            "external_id": "326",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "commertial sensor in 20mm depth"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "46.87",
+            "depth": "20mm",
+            "species": "beech"
+        },
+        "entry_id": 1073
+    },
+    "22": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 108",
+            "abstract": "Sap flow tree 108 - 20mm - east-north-east - commertial",
+            "location": [
+                11.22149387611781,
+                52.08652446950051
+            ],
+            "variable": 14,
+            "external_id": "333",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "commertial sensor in 20mm depth"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "89.22",
+            "depth": "20mm",
+            "species": "beech"
+        },
+        "entry_id": 1074
+    },
+    "24": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 114",
+            "abstract": "Sap flow tree 114 - 20mm - north - commertial",
+            "location": [
+                11.221519751750522,
+                52.08638814129585
+            ],
+            "variable": 14,
+            "external_id": "347",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "commertial sensor in 20mm depth"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "20.06",
+            "depth": "20mm",
+            "species": "hornbeam"
+        },
+        "entry_id": 1075
+    },
+    "26": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 143",
+            "abstract": "Sap flow tree 143 - 20mm - north - commertial",
+            "location": [
+                11.221266784688458,
+                52.08638805443536
+            ],
+            "variable": 14,
+            "external_id": "361",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "commertial sensor in 20mm depth"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "61.5",
+            "depth": "20mm",
+            "species": "beech"
+        },
+        "entry_id": 1076
+    },
+    "28": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 158",
+            "abstract": "Sap flow tree 158 - 20mm - east-north-east - commertial",
+            "location": [
+                11.221124173623972,
+                52.086319998966204
+            ],
+            "variable": 14,
+            "external_id": "373",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "commertial sensor in 20mm depth"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "23.2",
+            "depth": "20mm",
+            "species": "beech"
+        },
+        "entry_id": 1077
+    },
+    "30": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 185",
+            "abstract": "Sap flow tree 185 - 10mm - ene",
+            "location": [
+                11.22198930916518,
+                52.08633728363027
+            ],
+            "variable": 14,
+            "external_id": "380",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "nan"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "33.1",
+            "depth": "10mm",
+            "species": "oak"
+        },
+        "entry_id": 1078
+    },
+    "44": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 218",
+            "abstract": "Sap flow tree 218- 20mm- east",
+            "location": [
+                11.222203376714393,
+                52.086558634098814
+            ],
+            "variable": 14,
+            "external_id": "447",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "not yet converted"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "56.67",
+            "depth": "20mm",
+            "species": "oak"
+        },
+        "entry_id": 1079
+    },
+    "46": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 218",
+            "abstract": "Sap flow tree 218- 20mm- north",
+            "location": [
+                11.222203376714393,
+                52.086558634098814
+            ],
+            "variable": 14,
+            "external_id": "448",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "not yet converted"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "56.67",
+            "depth": "20mm",
+            "species": "oak"
+        },
+        "entry_id": 1080
+    },
+    "52": {
+        "core": {
+            "title": "Sap Flow - Hohes Holz - Tree 282",
+            "abstract": "Sap flow tree 282 - 20mm - north - commertial",
+            "location": [
+                11.221312410395242,
+                52.08642543931798
+            ],
+            "variable": 14,
+            "external_id": "465",
+            "license": 6,
+            "author": 6,
+            "embargo": true,
+            "comment": "commertial sensor in 20mm depth"
+        },
+        "details": {
+            "height": "1.3",
+            "dbh": "50.31",
+            "depth": "20mm",
+            "species": "beech"
+        },
+        "entry_id": 1081
+    }
+}

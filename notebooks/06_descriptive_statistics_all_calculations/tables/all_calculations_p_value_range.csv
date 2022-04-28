@@ -1,0 +1,6 @@
+absolute correlation score range,pearson,spearman,kendall_tau,dcor,mic,mutual_info,js_distance
+"(0, 0.1)",144,46,57,24,20,1744,1651
+"(0.1, 0.3)",0,0,0,0,0,0,1314
+"(0.3, 0.6)",0,0,0,0,0,0,1390
+"(0.6, 0.8)",0,0,0,0,0,0,278
+"(0.8, 1)",0,0,0,0,0,0,11

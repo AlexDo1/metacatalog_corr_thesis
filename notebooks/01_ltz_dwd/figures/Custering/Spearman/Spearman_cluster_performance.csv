@@ -1,0 +1,5 @@
+Spearman,Number of points in cluster,Average correlation score in cluster,Average value of expected correlation
+Cluster I,90.0,0.075,0.0
+Cluster II,30.0,0.253,0.1
+Cluster III,63.0,0.491,0.3
+Cluster IV,40.0,0.971,0.9
